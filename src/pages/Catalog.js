@@ -5,10 +5,8 @@ import size from "../assets/fake-data/product-size";
 import productData from "../assets/fake-data/products";
 import Button from "../components/Button";
 import CheckBox from "../components/CheckBox";
-import Grid from "../components/Grid";
 import Helmet from "../components/Helmet";
 import InfinityList from "../components/InfinityList";
-import ProductCard from "../components/ProductCard";
 
 const Catalog = () => {
   const initFilter = {
